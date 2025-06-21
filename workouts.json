@@ -269,8 +269,8 @@
     {
       "week": 1,
       "phase": "Fundamentos Kriptonianos",
-      "workouts": [{"name": "Levantamiento Pesado", "reps": 5}],
+      "workouts": [{"name": "Levantamiento Pesado", "reps": 4}],
       "diet": {"calories": 5000, "protein": 300, "carbs": 600, "fats": 150}
     }
-  ]
+  ],
 }
