@@ -1,0 +1,16 @@
+{
+    "assets": [
+        {
+            "id": "workouts-v1",
+            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/workouts.json"
+        },
+        {
+            "id": "definitions-v1",
+            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/definitions.json"
+        },
+        {
+            "id": "descriptions-v1",
+            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/descriptions.json"
+        }
+    ]
+}
