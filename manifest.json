@@ -11,6 +11,29 @@
         {
             "id": "descriptions-v1",
             "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/descriptions.json"
+        },
+        {
+            "id": "com.jimscope.zenith-fit.image.HeroPlaceholder",
+            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/images/HeroPlaceholder.jpg"
+        },
+        {
+            "id": "com.jimscope.zenith-fit.image.Batman",
+            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/images/Batman.jpg"
+        },
+        
+        {
+            "id": "com.jimscope.zenith-fit.image.Superman",
+            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/images/Superman.jpg"
+        },
+        
+        {
+            "id": "com.jimscope.zenith-fit.image.Flash",
+            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/images/Flash.jpg"
+        },
+        
+        {
+            "id": "com.jimscope.zenith-fit.image.WonderWoman",
+            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/images/WonderWoman.jpg"
         }
     ]
 }
