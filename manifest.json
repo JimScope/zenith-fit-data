@@ -1,16 +1,28 @@
 {
     "assets": [
         {
-            "id": "workouts-v1",
-            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/workouts.json"
+            "id": "com.jimscope.zenith-fit.workouts.es",
+            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/es/workouts.json"
         },
         {
-            "id": "definitions-v1",
-            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/definitions.json"
+            "id": "com.jimscope.zenith-fit.workouts.en",
+            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/en/workouts.json"
         },
         {
-            "id": "descriptions-v1",
-            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/descriptions.json"
+            "id": "com.jimscope.zenith-fit.definitions.es",
+            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/es/definitions.json"
+        },
+        {
+            "id": "com.jimscope.zenith-fit.definitions.en",
+            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/en/definitions.json"
+        },
+        {
+            "id": "com.jimscope.zenith-fit.descriptions.es",
+            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/es/descriptions.json"
+        },
+        {
+            "id": "com.jimscope.zenith-fit.descriptions.en",
+            "url": "https://raw.githubusercontent.com/JimScope/zenith-fit-data/main/en/descriptions.json"
         },
         {
             "id": "com.jimscope.zenith-fit.image.HeroPlaceholder",

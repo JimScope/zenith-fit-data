@@ -1,0 +1,289 @@
+{
+  "Batman": [
+    {
+      "week": 1,
+      "phase": "Adaptation",
+      "workouts": [
+        { "name": "Squats", "reps": 12 },
+        { "name": "Push-ups", "reps": 8 },
+        { "name": "Assisted pull-ups", "reps": 5 },
+        { "name": "Static plank (seconds)", "reps": 30 }
+      ],
+      "diet": { "calories": 3000, "protein": 140, "carbs": 452, "fats": 70 }
+    },
+    {
+      "week": 2,
+      "phase": "Adaptation",
+      "workouts": [
+        { "name": "Squats", "reps": 15 },
+        { "name": "Push-ups", "reps": 10 },
+        { "name": "Assisted pull-ups", "reps": 6 },
+        { "name": "Static plank (seconds)", "reps": 40 }
+      ],
+      "diet": { "calories": 3050, "protein": 141, "carbs": 464, "fats": 70 }
+    },
+    {
+      "week": 3,
+      "phase": "Adaptation",
+      "workouts": [
+        { "name": "Squats", "reps": 15 },
+        { "name": "Push-ups", "reps": 12 },
+        { "name": "Assisted pull-ups", "reps": 8 },
+        { "name": "Static plank (seconds)", "reps": 45 }
+      ],
+      "diet": { "calories": 3100, "protein": 142, "carbs": 473, "fats": 71 }
+    },
+    {
+      "week": 4,
+      "phase": "Adaptation",
+      "workouts": [
+        { "name": "Squats", "reps": 20 },
+        { "name": "Push-ups", "reps": 15 },
+        { "name": "Assisted pull-ups", "reps": 10 },
+        { "name": "Static plank (seconds)", "reps": 60 }
+      ],
+      "diet": { "calories": 3150, "protein": 143, "carbs": 485, "fats": 71 }
+    },
+    {
+      "week": 5,
+      "phase": "Base Strength",
+      "workouts": [
+        { "name": "Backpack squats (kg 10)", "reps": 8 },
+        { "name": "Weighted chair dips", "reps": 6 },
+        { "name": "Assisted pull-ups", "reps": 6 },
+        { "name": "Side plank (seconds)", "reps": 45 }
+      ],
+      "diet": { "calories": 3200, "protein": 143, "carbs": 495, "fats": 72 }
+    },
+    {
+      "week": 6,
+      "phase": "Base Strength",
+      "workouts": [
+        { "name": "Backpack squats (kg 12)", "reps": 8 },
+        { "name": "Parallel bar dips", "reps": 6 },
+        { "name": "Assisted pull-ups", "reps": 8 },
+        { "name": "Side plank (seconds)", "reps": 50 }
+      ],
+      "diet": { "calories": 3250, "protein": 144, "carbs": 506, "fats": 72 }
+    },
+    {
+      "week": 7,
+      "phase": "Base Strength",
+      "workouts": [
+        { "name": "Backpack squats (kg 12)", "reps": 8 },
+        { "name": "Backpack push-ups", "reps": 8 },
+        { "name": "Backpack pull-ups", "reps": 6 },
+        { "name": "Bulgarian lunges", "reps": 8 }
+      ],
+      "diet": { "calories": 3300, "protein": 145, "carbs": 516, "fats": 73 }
+    },
+    {
+      "week": 8,
+      "phase": "Base Strength",
+      "workouts": [
+        { "name": "Backpack squats (kg 15)", "reps": 8 },
+        { "name": "Weighted push-ups", "reps": 8 },
+        { "name": "Weighted dips", "reps": 8 },
+        { "name": "Backpack inverted row", "reps": 8 }
+      ],
+      "diet": { "calories": 3350, "protein": 146, "carbs": 527, "fats": 73 }
+    },
+    {
+      "week": 9,
+      "phase": "Base Strength",
+      "workouts": [
+        { "name": "Backpack squats (kg 15)", "reps": 6 },
+        { "name": "Weighted decline push-ups", "reps": 10 },
+        { "name": "Real pull-ups", "reps": 8 },
+        { "name": "Backpack lunges", "reps": 10 }
+      ],
+      "diet": { "calories": 3400, "protein": 147, "carbs": 539, "fats": 73 }
+    },
+    {
+      "week": 10,
+      "phase": "Base Strength",
+      "workouts": [
+        { "name": "Backpack squats (kg 17)", "reps": 6 },
+        { "name": "Backpack push-ups", "reps": 10 },
+        { "name": "Weighted dips", "reps": 10 },
+        { "name": "Pull-ups", "reps": 8 }
+      ],
+      "diet": { "calories": 3450, "protein": 148, "carbs": 548, "fats": 74 }
+    },
+    {
+      "week": 11,
+      "phase": "Hypertrophy",
+      "workouts": [
+        { "name": "Bulgarian squat", "reps": 8 },
+        { "name": "Burpees with squat", "reps": 12 },
+        { "name": "Diamond push-ups", "reps": 10 },
+        { "name": "Pull-ups", "reps": 8 }
+      ],
+      "diet": { "calories": 3500, "protein": 149, "carbs": 560, "fats": 74 }
+    },
+    {
+      "week": 12,
+      "phase": "Hypertrophy",
+      "workouts": [
+        { "name": "Superset: Push-ups + Band curl row", "reps": 10 },
+        { "name": "Hanging leg raise", "reps": 10 },
+        { "name": "Russian twist", "reps": 15 },
+        { "name": "Explosive push-ups", "reps": 10 }
+      ],
+      "diet": { "calories": 3530, "protein": 150, "carbs": 564, "fats": 75 }
+    },
+    {
+      "week": 13,
+      "phase": "Hypertrophy",
+      "workouts": [
+        { "name": "Assisted pistol squat", "reps": 6 },
+        { "name": "Weighted push-ups", "reps": 12 },
+        { "name": "Weighted inverted row", "reps": 10 },
+        { "name": "Burpees", "reps": 12 }
+      ],
+      "diet": { "calories": 3560, "protein": 150, "carbs": 571, "fats": 75 }
+    },
+    {
+      "week": 14,
+      "phase": "Hypertrophy",
+      "workouts": [
+        { "name": "Jump squat", "reps": 10 },
+        { "name": "Weighted dips", "reps": 10 },
+        { "name": "Pull-ups", "reps": 8 },
+        { "name": "Plank with arm raise", "reps": 45 }
+      ],
+      "diet": { "calories": 3590, "protein": 151, "carbs": 576, "fats": 76 }
+    },
+    {
+      "week": 15,
+      "phase": "Hypertrophy",
+      "workouts": [
+        { "name": "Jumping lunges", "reps": 12 },
+        { "name": "Decline push-ups", "reps": 12 },
+        { "name": "Renegade row", "reps": 10 },
+        { "name": "Burpees with tuck jump", "reps": 12 }
+      ],
+      "diet": { "calories": 3620, "protein": 152, "carbs": 582, "fats": 76 }
+    },
+    {
+      "week": 16,
+      "phase": "Hypertrophy",
+      "workouts": [
+        { "name": "Front backpack squat", "reps": 10 },
+        { "name": "Assisted pull-ups", "reps": 8 },
+        { "name": "Plyometric dips", "reps": 8 },
+        { "name": "Dynamic side plank", "reps": 45 }
+      ],
+      "diet": { "calories": 3650, "protein": 153, "carbs": 586, "fats": 77 }
+    },
+    {
+      "week": 17,
+      "phase": "Hypertrophy",
+      "workouts": [
+        { "name": "Pistol squat", "reps": 6 },
+        { "name": "Clap push-ups", "reps": 8 },
+        { "name": "Weighted inverted row", "reps": 12 },
+        { "name": "Burpees with jump", "reps": 12 }
+      ],
+      "diet": { "calories": 3680, "protein": 154, "carbs": 593, "fats": 77 }
+    },
+    {
+      "week": 18,
+      "phase": "Hypertrophy",
+      "workouts": [
+        { "name": "Backpack Bulgarian squat", "reps": 8 },
+        { "name": "Weighted diamond push-ups", "reps": 10 },
+        { "name": "Weighted pull-ups", "reps": 6 },
+        { "name": "Plank with hip movement", "reps": 45 }
+      ],
+      "diet": { "calories": 3710, "protein": 155, "carbs": 599, "fats": 77 }
+    },
+    {
+      "week": 19,
+      "phase": "Conditioning",
+      "workouts": [
+        { "name": "Jump squats", "reps": 12 },
+        { "name": "Explosive push-ups", "reps": 10 },
+        { "name": "Fast band row", "reps": 12 },
+        { "name": "Explosive lunges", "reps": 10 }
+      ],
+      "diet": { "calories": 3725, "protein": 156, "carbs": 600, "fats": 78 }
+    },
+    {
+      "week": 20,
+      "phase": "Conditioning",
+      "workouts": [
+        { "name": "On-the-spot sprint (seconds)", "reps": 30 },
+        { "name": "Dynamic plank", "reps": 45 },
+        { "name": "Burpees", "reps": 12 },
+        { "name": "Pull-ups", "reps": 6 }
+      ],
+      "diet": { "calories": 3750, "protein": 157, "carbs": 605, "fats": 78 }
+    },
+    {
+      "week": 21,
+      "phase": "Conditioning",
+      "workouts": [
+        { "name": "Backpack squat (kg 20)", "reps": 8 },
+        { "name": "Plyometric push-ups", "reps": 10 },
+        { "name": "Fast renegade row", "reps": 12 },
+        { "name": "Mountain climbers", "reps": 30 }
+      ],
+      "diet": { "calories": 3775, "protein": 157, "carbs": 609, "fats": 79 }
+    },
+    {
+      "week": 22,
+      "phase": "Conditioning",
+      "workouts": [
+        { "name": "Burpees with jump", "reps": 15 },
+        { "name": "Fast assisted pull-ups", "reps": 8 },
+        { "name": "Jumping lunges", "reps": 12 },
+        { "name": "Dynamic side plank", "reps": 60 }
+      ],
+      "diet": { "calories": 3800, "protein": 158, "carbs": 614, "fats": 79 }
+    },
+    {
+      "week": 23,
+      "phase": "Conditioning",
+      "workouts": [
+        { "name": "Fast full-body circuit", "reps": 6 },
+        { "name": "On-the-spot sprint (seconds)", "reps": 30 },
+        { "name": "Explosive push-ups", "reps": 12 },
+        { "name": "Explosive lunges", "reps": 12 }
+      ],
+      "diet": { "calories": 3825, "protein": 159, "carbs": 617, "fats": 80 }
+    },
+    {
+      "week": 24,
+      "phase": "Conditioning",
+      "workouts": [
+        { "name": "Intense jump squats", "reps": 12 },
+        { "name": "Decline push-ups with jump", "reps": 10 },
+        { "name": "Weighted pull-ups", "reps": 6 },
+        { "name": "Fast mountain climbers", "reps": 30 }
+      ],
+      "diet": { "calories": 3850, "protein": 160, "carbs": 622, "fats": 80 }
+    }
+  ],
+  "Superman": [
+    {
+      "week": 1,
+      "phase": "Kryptonian Fundamentals",
+      "workouts": [{ "name": "Heavy lifting", "reps": 4 }],
+      "diet": { "calories": 5000, "protein": 300, "carbs": 600, "fats": 150 }
+    }
+  ],
+  "Flash": [
+    {
+      "week": 1,
+      "phase": "Adaptation",
+      "workouts": [
+        { "name": "Squats", "reps": 12 },
+        { "name": "Push-ups", "reps": 8 },
+        { "name": "Assisted pull-ups", "reps": 5 },
+        { "name": "Static plank (seconds)", "reps": 30 }
+      ],
+      "diet": { "calories": 5000, "protein": 300, "carbs": 600, "fats": 150 }
+    }
+  ]
+}
